@@ -21,3 +21,7 @@ ln -s $DOTFILES/homebrew-brew/Brewfile $HOME/Brewfile
 # neovim
 rm -rf $HOME/.config/nvim
 ln -s $DOTFILES/init.lua $HOME/.config/nvim
+
+# xcode
+rm -rf $HOME/Library/Developer/Xcode/UserData/KeyBindings/intellij.idekeybindings
+ln -s  $DOTFILES/xcode-settings/intellij.idekeybindings $HOME/Library/Developer/Xcode/UserData/KeyBindings/intellij.idekeybindings
