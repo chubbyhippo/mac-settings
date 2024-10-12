@@ -2,6 +2,10 @@
 
 DOTFILES="$(cd "$(dirname "{$0}")" && pwd)"
 
+# ideavimrc
+rm -rf $HOME/.ideavimrc
+ln -s $DOTFILES/.ideavimrc/.ideavimrc $HOME/.ideavimrc
+
 # aerospace
 rm -rf $HOME/.aerospace.toml
 ln -s $DOTFILES/aerospace/.aerospace.toml $HOME/.aerospace.toml
