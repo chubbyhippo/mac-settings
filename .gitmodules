@@ -4,3 +4,6 @@
 [submodule ".ideavimrc"]
 	path = .ideavimrc
 	url = git@github.com:chubbyhippo/.ideavimrc.git
+[submodule "init.lua"]
+	path = init.lua
+	url = git@github.com:chubbyhippo/init.lua.git
