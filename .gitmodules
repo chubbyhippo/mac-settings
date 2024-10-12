@@ -1,0 +1,3 @@
+[submodule "aerospace"]
+	path = aerospace
+	url = git@github.com:chubbyhippo/aerospace.git
