@@ -10,3 +10,6 @@
 [submodule "homebrew-brew"]
 	path = homebrew-brew
 	url = git@github.com:chubbyhippo/homebrew-brew.git
+[submodule "emacs"]
+	path = emacs
+	url = git@github.com:chubbyhippo/emacs.git
