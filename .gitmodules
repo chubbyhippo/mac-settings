@@ -7,3 +7,6 @@
 [submodule "init.lua"]
 	path = init.lua
 	url = git@github.com:chubbyhippo/init.lua.git
+[submodule "homebrew-brew"]
+	path = homebrew-brew
+	url = git@github.com:chubbyhippo/homebrew-brew.git
