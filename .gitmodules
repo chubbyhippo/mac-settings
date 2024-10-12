@@ -1,3 +1,6 @@
 [submodule "aerospace"]
 	path = aerospace
 	url = git@github.com:chubbyhippo/aerospace.git
+[submodule ".ideavimrc"]
+	path = .ideavimrc
+	url = git@github.com:chubbyhippo/.ideavimrc.git
