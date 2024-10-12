@@ -13,3 +13,6 @@
 [submodule "emacs"]
 	path = emacs
 	url = git@github.com:chubbyhippo/emacs.git
+[submodule "xcode-settings"]
+	path = xcode-settings
+	url = git@github.com:chubbyhippo/xcode-settings.git
